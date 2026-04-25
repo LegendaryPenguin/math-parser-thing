@@ -3,3 +3,8 @@ manim/
 outputs/
 __pycache__/
 *.pyc
+test.aux
+test.log
+test.pdf
+inputs/sample.png
+inputs/wrong5.png
