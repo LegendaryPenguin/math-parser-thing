@@ -1,0 +1,5 @@
+.venv/
+manim/
+outputs/
+__pycache__/
+*.pyc
